@@ -1,0 +1,16 @@
+25-02-03 13:51 Session started
+----------------------------------------
+13:58:50 Document switched to: c:\Users\deniss.kuzmins\AppData\Roaming\Code\User\profiles\2ce673e\settings.json
+----------------------------------------
+14:00:30 025:005 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+14:03:49 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\.vscode\csharp.code-snippets
+----------------------------------------
