@@ -1,0 +1,645 @@
+25-02-05 11:37 Session started
+----------------------------------------
+11:37:35 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\.vscode\intro\App.xaml.cs
+----------------------------------------
+11:39:43 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\App.xaml
+----------------------------------------
+11:41:30 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml.cs
+----------------------------------------
+11:41:34 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml
+----------------------------------------
+
+11:46:23 008:000 > S
+11:46:23 008:001 > St
+11:46:23 008:002 > Sta
+11:46:24 008:000 > <StackPanel></StackPanel>
+
+11:48:49 009:000 > l
+11:48:49 009:001 > la
+11:48:49 009:002 > lab
+11:48:49 009:003 > labe
+11:48:50 009:000 > <Label></Label>
+11:49:05 009:015 > A
+11:49:05 009:016 > An
+11:49:06 009:017 > Ang
+11:49:06 009:018 > Ange
+11:49:07 009:020 > Ange e
+11:49:07 009:021 > Ange en
+11:49:07 009:023 > Ange en t
+11:49:07 009:024 > Ange en te
+11:49:09 009:025 > Ange en tex
+11:49:09 009:026 > Ange en text
+
+11:49:21 010:008 > <
+11:49:23 010:009 > <T
+11:49:23 010:010 > <TE
+11:49:25 010:008 > <TextBox></TextBox>
+
+11:49:34 011:008 > B
+11:49:34 011:009 > Bu
+11:49:35 011:010 > But
+11:49:35 011:011 > Butt
+11:49:35 011:012 > Butto
+11:49:36 011:008 > <Button></Button>
+11:49:40 011:016 > O
+11:49:40 011:017 > OK
+
+11:50:17 012:008 > B
+11:50:17 012:009 > BU
+11:50:17 012:010 > BUt
+11:50:18 012:008 > <Button></Button>
+11:50:22 012:016 > A
+11:50:23 012:017 > Av
+11:50:24 012:018 > Avb
+11:50:24 012:019 > Avbr
+11:50:25 012:020 > Avbry
+11:50:25 012:021 > Avbryt
+
+11:51:48 008:016 > M
+11:51:48 008:017 > MA
+11:51:50 008:016 > Margin=""
+11:51:52 008:024 > 1
+11:51:53 008:025 > 10
+11:52:24 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\.vscode\intro\MainWindow.xaml
+----------------------------------------
+11:52:56 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml
+----------------------------------------
+11:53:03 009:009 > Label
+
+11:53:07 009:015 > M
+11:53:07 009:016 > MA
+11:53:08 009:015 > Margin=""
+11:53:13 009:023 > 1
+11:53:14 009:024 > 10
+11:53:21 010:017 > Margin="10"
+11:53:25 011:016 > Margin="10"
+11:53:28 012:016 > Margin="10"
+
+11:54:10 011:028 > P
+11:54:10 011:029 > PA
+11:54:10 011:030 > PAd
+11:54:11 011:031 > PAdd
+11:54:11 011:028 > Padding=""
+11:54:13 011:037 > 1
+11:54:13 011:038 > 10
+
+11:54:16 012:028 > P
+11:54:16 012:029 > Pa
+11:54:16 012:028 > Padding=""
+11:54:18 012:037 > 1
+11:54:18 012:038 > 10
+
+11:56:08 010:029 > H
+11:56:08 010:030 > He
+11:56:09 010:029 > Height=""
+11:56:11 010:037 > 2
+11:56:12 010:038 > 20
+11:56:34 010:037 > 201
+11:56:35 010:038 > 2010
+11:56:35 010:039 > 20100
+
+11:57:01 008:028 > M
+11:57:01 008:029 > MA
+11:57:05 008:028 > MaxHeight=""
+11:57:12 008:039 > 5
+11:57:12 008:040 > 50
+11:57:12 008:041 > 500
+11:57:14 008:044 > 500 M
+11:57:14 008:045 > 500 MA
+11:57:15 008:044 > MaxWidth=""
+11:57:21 008:054 > 2
+11:57:22 008:055 > 20
+11:57:22 008:056 > 200
+11:57:48 008:028 > 200M
+11:57:48 008:029 > 200Mn
+11:57:49 008:028 > MinHeight
+11:57:52 008:045 > i
+11:57:53 008:046 > in
+11:58:32 008:004 > inS
+11:58:33 008:005 > inSi
+11:58:34 008:006 > inSiz
+11:58:34 008:007 > inSize
+11:58:36 008:005 > inSizez
+11:58:37 008:005 > inSizezi
+11:58:37 008:006 > inSizeziz
+11:58:38 008:007 > inSizezize
+11:58:38 008:004 > SizeToContent
+11:58:41 008:017 > =
+11:58:43 008:018 > ""
+11:58:45 008:019 > W
+11:58:45 008:020 > Wi
+11:58:47 008:021 > Wit
+11:58:47 008:022 > With
+11:58:48 008:019 > WidthAndHeight
+11:58:52 008:034 > <
+11:58:53 008:034 > <>
+
+11:59:18 009:004 > M
+11:59:18 009:005 > MI
+11:59:20 009:004 > MinWidth=""
+11:59:25 009:007 > h
+11:59:25 009:004 > MinHeight
+11:59:34 009:015 > 2
+11:59:34 009:016 > 20
+11:59:34 009:017 > 200
+11:59:37 009:020 > 200 M
+11:59:37 009:021 > 200 Mi
+11:59:37 009:022 > 200 Min
+11:59:41 009:020 > MinWidth=""
+11:59:44 009:030 > 1
+11:59:44 009:031 > 15
+11:59:45 009:032 > 150
+12:00:16 009:030 > 1502
+12:00:16 009:031 > 15020
+12:00:16 009:032 > 150200
+12:00:23 009:015 > 1502002
+12:00:23 009:016 > 15020025
+12:00:23 009:017 > 150200250
+12:00:39 009:030 > 1502002501
+12:01:08 009:030 > 15020025015
+12:01:12 009:030 > 150200250153
+12:01:15 009:031 > 1502002501535
+12:01:18 009:015 > 15020025015354
+12:01:53 009:015 > 150200250153543
+12:01:53 009:016 > 1502002501535430
+12:01:53 009:017 > 15020025015354300
+12:01:58 Document switched to: tasks
+----------------------------------------
+12:01:58 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml
+----------------------------------------
+12:02:22 009:030 > 150200250153543002
+12:02:22 009:031 > 1502002501535430020
+12:02:22 009:032 > 15020025015354300200
+12:02:41 009:031 > 150200250153543002005
+
+12:02:50 011:027 > F
+12:02:50 011:028 > Fo
+12:02:50 011:029 > Fon
+12:02:53 011:030 > Fonr
+12:02:53 011:030 > Fonrt
+12:02:59 011:027 > FontSize=""
+12:03:02 011:037 > 1
+12:03:03 011:038 > 16
+12:03:10 011:041 > 16 O
+12:03:10 011:042 > 16 OF
+12:03:11 011:041 > 16 OFF
+12:03:12 011:042 > 16 OFFo
+12:03:13 011:043 > 16 OFFon
+12:03:13 011:044 > 16 OFFont
+12:03:16 011:041 > FontWeight=""
+12:03:23 011:053 > b
+12:03:23 011:054 > bo
+12:03:23 011:055 > bol
+12:03:23 011:056 > bolt
+12:05:09 011:056 > boltd
+
+12:05:47 013:041 > V
+12:05:47 013:042 > Va
+12:05:49 013:041 > VaB
+12:05:49 013:042 > VaBA
+12:05:50 013:041 > Background=""
+12:05:52 013:053 > L
+12:05:52 013:054 > Li
+12:05:52 013:055 > Lim
+12:05:52 013:056 > Lime
+12:05:53 013:057 > LimeG
+12:05:53 013:058 > LimeGe
+12:05:54 013:058 > LimeGer
+12:05:54 013:059 > LimeGere
+12:05:55 013:060 > LimeGeree
+12:05:55 013:061 > LimeGereen
+
+12:06:01 014:041 > B
+12:06:01 014:042 > BA
+12:06:02 014:043 > BAc
+12:06:03 014:041 > Background=""
+12:06:08 014:053 > B
+12:06:08 014:054 > Bu
+12:06:08 014:055 > Bur
+12:06:11 014:056 > Burg
+12:06:11 014:057 > Burgu
+12:06:11 014:058 > Burgun
+12:06:12 014:059 > Burgund
+12:06:12 014:060 > Burgundy
+12:07:08 014:053 > BurgundyR
+12:07:08 014:054 > BurgundyRe
+12:07:09 014:055 > BurgundyRed
+
+12:07:38 013:064 > F
+12:07:38 013:065 > Fo
+12:07:38 013:066 > Fon
+12:07:39 013:067 > Font
+12:07:47 013:066 > Fontr
+12:07:48 013:067 > Fontre
+12:07:48 013:064 > Foreground=""
+12:07:50 013:076 > w
+12:07:50 013:077 > wh
+12:07:50 013:078 > whi
+12:07:51 013:079 > whit
+12:07:51 013:080 > white
+12:07:56 013:076 > whiteW
+
+12:07:59 014:058 > F
+12:07:59 014:059 > Fr
+12:07:59 014:060 > Fro
+12:08:02 014:059 > Froo
+12:08:02 014:060 > Froor
+12:08:03 014:061 > Froore
+12:08:03 014:058 > Foreground=""
+12:08:04 014:070 > W
+12:08:04 014:071 > Wh
+12:08:05 014:072 > Whi
+12:08:05 014:073 > Whie
+12:08:06 014:073 > Whiet
+12:08:06 014:074 > Whiete
+
+12:08:18 012:042 > T
+12:08:18 012:043 > Ta
+12:08:19 012:044 > Tax
+12:08:20 012:045 > Taxt
+12:08:26 012:046 > TaxtW
+12:08:29 012:043 > TaxtWe
+12:08:30 012:044 > TaxtWex
+12:08:31 012:045 > TaxtWext
+12:08:31 012:046 > TaxtWextW
+12:08:33 012:042 > TextWrapping=""
+12:08:35 012:056 > W
+12:08:36 012:057 > Wr
+12:08:36 012:058 > Wra
+12:08:36 012:059 > Wrap
+12:09:06 012:042 > Wrap W
+12:09:06 012:043 > Wrap Wi
+12:09:07 012:042 > Width
+12:09:11 012:042 > WiTextWrapping
+12:09:12 012:044 > z
+12:09:15 012:042 > z w
+12:09:16 012:043 > z wi
+12:09:16 012:042 > Width=""
+12:09:17 012:049 > 2
+12:09:17 012:050 > 20
+12:09:18 012:051 > 200
+12:12:41 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml.cs
+----------------------------------------
+12:14:36 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml
+----------------------------------------
+
+12:14:47 013:016 > C
+12:14:49 013:017 > Cl
+12:14:49 013:018 > Cli
+12:14:50 013:016 > Click=""
+12:14:51 013:023 > K
+12:14:52 013:024 > Kl
+12:14:53 013:025 > Kli
+12:14:53 013:026 > Klic
+12:14:53 013:027 > Klick
+12:14:55 013:028 > KlickO
+12:14:58 013:029 > KlickOK
+12:14:59 013:029 > KlickOKk
+12:15:12 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml.cs
+----------------------------------------
+
+12:15:31 023:004 > e
+12:15:31 023:005 > ev
+12:15:31 023:004 > private void (object sender, RoutedEventArgs e)
+    {
+        
+    }
+12:15:35 023:004 > ev
+12:15:36 023:005 > v
+12:15:40 023:004 > private void (object sender, RoutedEventArgs e)
+    {
+        
+    }
+12:17:57 023:017 > K
+12:17:57 023:018 > Kl
+12:17:58 023:019 > Kli
+12:17:59 023:020 > Klic
+12:17:59 023:021 > Klick
+12:18:00 023:022 > KlickO
+12:18:00 023:023 > KlickOk
+
+12:21:33 025:008 > M
+12:21:33 025:009 > Me
+12:21:34 025:010 > Med
+12:21:35 025:010 > Mede
+12:21:36 025:010 > Medes
+12:21:36 025:011 > Medess
+12:21:39 025:012 > Medessa
+12:21:41 025:008 > MedessaM
+12:21:42 025:009 > MedessaMe
+12:21:44 025:010 > MedessaMes
+12:21:44 025:011 > MedessaMess
+12:21:45 025:012 > MedessaMessa
+12:21:45 025:013 > MedessaMessag
+12:21:46 025:014 > MedessaMessage
+12:21:47 025:015 > MedessaMessageB
+12:21:48 025:016 > MedessaMessageBo
+12:21:48 025:017 > MedessaMessageBox
+12:21:49 025:018 > MedessaMessageBox.
+12:21:51 025:019 > MedessaMessageBox.S
+12:21:52 025:020 > MedessaMessageBox.Sh
+12:21:52 025:021 > MedessaMessageBox.Sho
+12:21:53 025:021 > MedessaMessageBox.Shoo
+12:21:55 025:020 > MedessaMessageBox.Shooh
+12:21:56 025:021 > MedessaMessageBox.Shooho
+12:21:56 025:022 > MedessaMessageBox.Shoohow
+12:22:01 025:023 > ()
+12:22:01 025:024 > ""
+12:22:02 025:025 > D
+12:22:03 025:026 > Du
+12:22:03 025:028 > Du k
+12:22:04 025:029 > Du kl
+12:22:04 025:030 > Du klc
+12:22:04 025:031 > Du klci
+12:22:04 025:032 > Du klcik
+12:22:05 025:033 > Du klcika
+12:22:05 025:034 > Du klcikad
+12:22:05 025:035 > Du klcikade
+12:22:08 025:037 > Du klcikade o
+12:22:08 025:038 > Du klcikade ok
+
+12:22:30 023:022 > O
+12:22:39 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml.cs
+----------------------------------------
+12:22:42 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml
+----------------------------------------
+12:23:12 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml.cs
+----------------------------------------
+12:23:18 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml.cs
+----------------------------------------
+
+12:23:19 025:041 > ;
+
+12:24:49 027:004 > e
+12:24:49 027:005 > ev
+12:24:49 027:004 > private void (object sender, RoutedEventArgs e)
+    {
+        
+    }
+12:24:59 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml
+----------------------------------------
+
+12:25:00 014:016 > C
+12:25:00 014:017 > Cl
+12:25:00 014:018 > Cli
+12:25:01 014:016 > Click
+12:25:06 014:017 > lick
+12:25:06 014:016 > CliMargin
+12:25:09 014:016 >  C
+12:25:09 014:017 >  Cl
+12:25:10 014:018 >  Cli
+12:25:10 014:016 > Click=""
+12:25:11 014:023 > A
+12:25:12 014:024 > Av
+12:25:12 014:025 > Avb
+12:25:12 014:026 > Avbr
+12:25:13 014:027 > Avbry
+12:25:13 014:028 > Avbryt
+12:25:15 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml.cs
+----------------------------------------
+
+12:25:16 031:004 > e
+12:25:16 031:005 > ev
+12:25:16 031:004 > private void (object sender, RoutedEventArgs e)
+    {
+        
+    }
+12:25:18 031:017 > A
+12:25:18 031:018 > Av
+12:25:19 031:019 > Avb
+12:25:19 031:020 > Avbr
+12:25:20 031:021 > Avbry
+12:25:20 031:022 > Avbryt
+
+12:25:23 033:008 > M
+12:25:23 033:009 > Me
+12:25:24 033:010 > Mes
+12:25:24 033:011 > Mess
+12:25:25 033:012 > Messa
+12:25:25 033:013 > Messag
+12:25:25 033:014 > Message
+12:25:26 033:015 > MessageB
+12:25:26 033:016 > MessageBi
+12:25:27 033:016 > MessageBio
+12:25:28 033:017 > MessageBiox
+12:25:28 033:018 > MessageBiox.
+12:25:29 033:019 > MessageBiox.S
+12:25:29 033:020 > MessageBiox.Sh
+12:25:29 033:021 > MessageBiox.Sho
+12:25:30 033:022 > MessageBiox.Show
+12:25:31 033:019 > Show
+12:25:32 033:023 > ()
+12:25:33 033:024 > ""
+12:25:36 033:025 > D
+12:25:36 033:026 > Du
+12:25:37 033:028 > Du k
+12:25:37 033:029 > Du kl
+12:25:38 033:030 > Du kli
+12:25:38 033:031 > Du klic
+12:25:38 033:032 > Du klick
+12:25:38 033:033 > Du klicka
+12:25:39 033:034 > Du klickat
+12:25:39 033:035 > Du klickate
+12:25:40 033:037 > Du klickate A
+12:25:40 033:038 > Du klickate Av
+12:25:40 033:039 > Du klickate Avb
+12:25:40 033:040 > Du klickate Avbr
+12:25:41 033:041 > Du klickate Avbry
+12:25:41 033:042 > Du klickate Avbryt
+12:25:43 033:045 > Du klickate Avbryt;
+12:25:52 033:037 > Du klickate Avbryt;a
+
+12:30:50 022:004 > e
+12:30:51 022:005 > ev
+12:30:51 022:004 > private void (object sender, RoutedEventArgs e)
+    {
+        
+    }
+12:30:59 022:017 > K
+12:30:59 022:018 > Kl
+12:30:59 022:019 > Kli
+12:31:00 022:017 > KlickOk
+
+12:31:06 024:008 > /
+12:31:06 024:009 > //
+12:31:09 024:010 > //L
+12:31:09 024:011 > //LÄ
+12:31:10 024:011 > //LÄä
+12:31:10 024:012 > //LÄäs
+12:31:11 024:014 > //LÄäs v
+12:31:11 024:015 > //LÄäs va
+12:31:12 024:014 > //LÄäs vaa
+12:31:12 024:015 > //LÄäs vaav
+12:31:13 024:017 > //LÄäs vaav t
+12:31:13 024:018 > //LÄäs vaav te
+12:31:13 024:019 > //LÄäs vaav tex
+12:31:14 024:020 > //LÄäs vaav text
+12:31:14 024:021 > //LÄäs vaav textr
+12:31:14 024:022 > //LÄäs vaav textru
+12:31:15 024:023 > //LÄäs vaav textrut
+12:31:15 024:024 > //LÄäs vaav textruta
+12:31:15 024:025 > //LÄäs vaav textrutan
+
+12:31:17 025:008 > s
+12:31:17 025:009 > st
+12:31:17 025:010 > str
+12:31:18 025:011 > stri
+12:31:18 025:008 > string
+12:31:20 025:015 >  t
+12:31:20 025:016 >  te
+12:31:20 025:017 >  tex
+12:31:20 025:018 >  text
+12:31:23 025:020 >  text =
+12:31:26 025:022 >  text = t
+12:31:26 025:023 >  text = tb
+12:31:27 025:024 >  text = tbx
+12:31:27 025:025 >  text = tbx.
+12:31:32 025:025 >  text = tbx.T
+12:31:32 025:026 >  text = tbx.Te
+12:31:33 025:027 >  text = tbx.Tex
+12:31:33 025:028 >  text = tbx.Text
+12:31:34 025:029 >  text = tbx.Text.
+12:31:36 025:030 >  text = tbx.Text.T
+12:31:36 025:031 >  text = tbx.Text.Te
+12:31:37 025:032 >  text = tbx.Text.Tex
+12:31:37 025:030 > Text
+12:31:38 025:034 > ;
+
+12:31:41 027:008 > M
+12:31:41 027:009 > Me
+12:31:41 027:010 > Mer
+12:31:42 027:009 > Mere
+12:31:43 027:010 > Meres
+12:31:43 027:011 > Meress
+12:31:43 027:012 > Meressa
+12:31:44 027:013 > Meressag
+12:31:44 027:014 > Meressage
+12:31:46 027:015 > MeressageB
+12:31:46 027:016 > MeressageBo
+12:31:46 027:017 > MeressageBox
+12:31:47 027:018 > MeressageBox.
+12:31:48 027:019 > MeressageBox.S
+12:31:49 027:020 > MeressageBox.Sh
+12:31:49 027:021 > MeressageBox.Sho
+12:31:50 027:019 > Show
+12:31:52 027:023 > ()
+12:31:53 027:024 > $
+12:31:55 027:025 > ""
+12:31:58 027:026 > {}
+12:31:59 027:027 > t
+
+12:31:59 026:000 > t
+
+12:31:59 027:028 > e
+
+12:31:59 026:001 > e
+
+12:31:59 027:029 > x
+
+12:31:59 026:002 > x
+
+12:32:00 027:030 > t
+
+12:32:00 026:003 > t
+
+12:32:08 027:026 > D
+
+12:32:08 025:035 > D
+
+12:32:08 027:027 > u
+
+12:32:08 025:036 > u
+
+12:32:09 027:029 > s
+
+12:32:09 025:038 > s
+
+12:32:09 027:030 > k
+
+12:32:09 025:039 > k
+
+12:32:09 027:031 > r
+
+12:32:09 025:040 > r
+
+12:32:09 027:032 > e
+
+12:32:09 025:041 > e
+
+12:32:10 027:033 > v
+
+12:32:10 025:042 > v
+
+12:32:13 027:034 > :
+
+12:32:13 025:043 > :
+
+12:32:45 026:042 > ´
+12:32:47 026:042 > ´`
+12:33:00 026:042 > ´`*
+12:33:01 026:042 > ´`*'
+12:33:51 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml
+----------------------------------------
+
+12:33:54 012:017 > N
+12:33:54 012:018 > Na
+12:33:54 012:019 > Nam
+12:33:55 012:017 > Name
+12:33:57 012:017 > NamMargin
+12:33:59 012:017 >  N
+12:34:00 012:018 >  Na
+12:34:00 012:019 >  Nam
+12:34:00 012:017 > Name=""
+12:34:03 012:023 > t
+12:34:03 012:024 > tb
+12:34:03 012:025 > tbx
+12:34:07 012:026 > tbxT
+12:34:07 012:027 > tbxTe
+12:34:07 012:028 > tbxTex
+12:34:08 012:029 > tbxText
+12:35:27 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml.cs
+----------------------------------------
+12:35:55 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml
+----------------------------------------
+12:35:57 012:030 > tbxText.
+12:35:57 012:031 > tbxText.Y
+12:35:58 012:032 > tbxText.Ye
+12:35:58 012:033 > tbxText.Yex
+12:35:58 012:034 > tbxText.Yexy
+12:36:04 012:031 > tbxText.YexyY
+12:36:05 012:031 > tbxText.YexyYT
+12:36:05 012:032 > tbxText.YexyYTe
+12:36:05 012:033 > tbxText.YexyYTex
+12:36:06 012:034 > tbxText.YexyYText
+12:36:25 012:029 > tbxText.YexyYTextx
+12:36:43 012:029 > tbxText.YexyYTextxt
+12:37:02 012:017 > tbxText.YexyYTextxt C
+12:37:03 012:018 > tbxText.YexyYTextxt Cl
+12:37:04 012:019 > tbxText.YexyYTextxt Cli
+12:37:04 012:017 > Click=""
+12:37:08 012:024 > K
+12:37:08 012:025 > KL
+12:37:08 012:026 > KLi
+12:37:09 012:025 > KLil
+12:37:10 012:026 > KLili
+12:37:10 012:027 > KLilic
+12:37:10 012:028 > KLilick
+12:37:12 012:029 > KLilickO
+12:37:12 012:030 > KLilickOk
+12:37:55 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml.cs
+----------------------------------------
+
+12:38:00 027:036 > '
+12:38:03 027:043 > ''
+12:38:53 027:046 > '':
+12:38:56 027:046 > '':;
+12:49:16 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml
+----------------------------------------
+12:49:59 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\.vscode\intro\MainWindow.xaml
+----------------------------------------
+12:50:03 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\.vscode\intro\MainWindow.xaml.cs
+----------------------------------------
+12:50:08 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml.cs
+----------------------------------------
+13:22:54 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\.vscode\intro\MainWindow.xaml.cs
+----------------------------------------

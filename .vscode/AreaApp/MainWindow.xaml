@@ -1,0 +1,26 @@
+﻿<Window x:Class="AreaApp.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:AreaApp"
+    mc:Ignorable="d"
+    Title="Area uträknare"
+    Height="450" Width="800"
+    SizeToContent="WidthAndHeight"
+    Background="#EEE">
+    <StackPanel Margin="20">
+        <Label FontWeight="Bold" FontSize="18">Räkna ut area på fyrkant</Label>
+<Label>Ange bredd</Label>
+<TextBox Name="txbBredd" Padding="5"></TextBox>
+
+<Label>Ange höjd</Label>
+<TextBox Name="txbHöjd" Padding="5"></TextBox>
+
+<Button Click="KlickRäkna" Padding="10" Margin="0 10 0 10">Räkna ut!</Button>
+<Button Click="KlickRensa" Padding="10" Margin="0 10 0 10">Ränsa</Button>
+
+<Label>Resultat</Label>
+<TextBox Name="txbResultat" Padding="5"></TextBox>
+    </StackPanel>
+</Window>
