@@ -1,0 +1,27 @@
+﻿<Window x:Class="MelloApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MelloApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="300"
+        SizeToContent="WidthAndHeight">
+
+    <StackPanel Margin="20">
+        <Image Source="bilder/mello.png" Width="200" Margin="0,0,0,10"></Image>
+        <Label Margin="15" Foreground="#FFF" FontSize="24">Vilken är din favoritlåt?</Label>
+
+        <Button Name="röd" Click="KlickRösta" FontWeight="Bold" Background="Red">Röd</Button>
+        <Button Name="blå" Click="KlickRösta" FontWeight="Bold" Background="Blue">Blå</Button>
+        <Button Name="grön" Click="KlickRösta" FontWeight="Bold" Background="Green">Grön</Button>
+        <Button Name="gul" Click="KlickRösta" FontWeight="Bold" Background="Yellow">Gul</Button>
+        <Button Name="lila" Click="KlickRösta" FontWeight="Bold" Background="Purple">Lila</Button>
+
+        <Label>Antal röster:</Label>
+        <TextBox Name="txbResultat" IsReadOnly="True"></TextBox>
+
+        <!-- Återställningsknapp -->
+        <Button Name="btnReset" Click="KlickReset" FontWeight="Bold" Background="Gray">Återställ</Button>
+    </StackPanel>
+</Window>
