@@ -1,0 +1,30 @@
+﻿<Window x:Class="Brännbollsräknare.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Brännbollsräknare"
+        mc:Ignorable="d"
+        Title="Brännbollsräknare" Height="450" Width="800"
+        SizeToContent="WidthAndHeight">
+    <StackPanel Margin="10">
+        <Label Content="Brännbollsräknare" FontSize="20" HorizontalAlignment="Center"/>
+        
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <Label>Lag inne: </Label>
+            <TextBox Name="txbLagInne" Width="100" IsReadOnly="True" Text="0"/>
+            <Label>Lag ute: </Label>
+            <TextBox Name="txbLagUtte" Width="100" IsReadOnly="True" Text="0"/>
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <Button Click="KlickFrivarv" Margin="10" Padding="5" Width="100">Frivarv</Button>
+            <Button Click="KlickBränning" Margin="10" Padding="5" Width="100">Bränning</Button>
+            <Button Click="KlickLyra" Margin="10" Padding="5" Width="100">Lyra</Button>
+            <Button Click="KlickVarv" Margin="10" Padding="5" Width="100">Varv</Button>
+        </StackPanel>
+        
+        <Label Content="Historik:" FontSize="16" Margin="5"/>
+        <ListBox Name="lstHistorik" Height="100"/>
+    </StackPanel>
+</Window>
