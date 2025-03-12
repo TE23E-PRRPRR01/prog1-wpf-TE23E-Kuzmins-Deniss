@@ -1,0 +1,33 @@
+﻿<Window x:Class="MeddelandeApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Meddelande App" Height="350" Width="500" Background="#EEE" SizeToContent="WidthAndHeight">
+    <StackPanel>
+        <!-- Titel -->
+        <Label Margin="5" FontSize="24">Meddelanden</Label>
+
+        <!-- E-postadress -->
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="5" Width="100">Ange epostadress</Label>
+            <TextBox Name="tbxEpost" Margin="5" Width="300"/>
+        </StackPanel>
+
+        <!-- Lösenord -->
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="5" Width="100">Ange lösenord</Label>
+            <PasswordBox Name="tbxPassword" Margin="5" Width="300"/>
+        </StackPanel>
+
+        <!-- Text för meddelandet -->
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="5" Width="100">Ange texten</Label>
+            <TextBox Name="tbxText" Margin="5" Width="300" Height="90" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" AcceptsReturn="True"/>
+        </StackPanel>
+
+        <!-- Skicka-knapp -->
+        <Button Click="KlickSkicka" Margin="5" Height="30">Skicka!</Button>
+
+        <!-- Statusrad -->
+        <Label Name="lblStatus" Margin="5" Background="#FFF" Foreground="#999">Inga meddelanden...</Label>
+    </StackPanel>
+</Window>
