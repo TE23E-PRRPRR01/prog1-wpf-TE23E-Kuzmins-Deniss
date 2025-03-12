@@ -1,0 +1,34 @@
+﻿<Window x:Class="KlappApp.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:KlappApp"
+    mc:Ignorable="d"
+    Title="MainWindow" Height="450" Width="800" SizeToContent="WidthAndHeight" Background="#EEE">
+    <StackPanel Margin="10">
+        <Label FontFamily="Bold" FontSize="30">Julklapplistan</Label>
+
+<StackPanel Orientation="Horizontal" Margin="10" Name="stpMax">
+            <Label>Antal julklappar:</Label>
+            <TextBox Width="100" Name="txbAntal"></TextBox>
+            <Button Click="KlickAnge" Margin="5">Ange</Button>
+        </StackPanel>
+<StackPanel Orientation="Horizontal" Margin="10" Name="stpInmatning">
+            <Label>Julklapp:</Label>
+            <TextBox Width="100"></TextBox>
+            <Label>Mottagare:</Label>
+            <TextBox Width="100"></TextBox>
+            <Button Click="KlickLäggtill" Margin="5">Lägg till</Button>
+            <Button Click="KlickBytut" Margin="5">Byt ut</Button>
+
+        </StackPanel>
+        <StackPanel Name="stpListan">
+        <Label>Julklapp:</Label>
+        <ListBox Name="lsbJulklappar" Height="120"></ListBox>
+        </StackPanel>
+        <TextBox Name="txbStatus" ></TextBox>
+
+    </StackPanel>
+
+</Window>
