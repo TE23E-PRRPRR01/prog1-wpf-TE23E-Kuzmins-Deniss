@@ -1,0 +1,12 @@
+25-03-12 14:54 Session started
+----------------------------------------
+14:55:00 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\global.json
+----------------------------------------
+14:55:51 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\MainWindow.xaml
+----------------------------------------
+14:56:26 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\global.json
+----------------------------------------
+14:56:42 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\.gitignore
+----------------------------------------
+14:56:43 Document switched to: c:\Users\deniss.kuzmins\github-classroom\prog1-wpf-TE23E-Kuzmins-Deniss\App.xaml
+----------------------------------------

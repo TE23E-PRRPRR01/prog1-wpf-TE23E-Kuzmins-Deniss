@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace prog1_wpf_TE23E_Kuzmins_Deniss;
+namespace AiApp;
 
 /// <summary>
 /// Interaction logic for App.xaml
