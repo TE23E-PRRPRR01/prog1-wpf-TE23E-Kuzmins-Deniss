@@ -15,7 +15,6 @@
     "git.postCommitCommand": "sync",
     "sessionlogger.enabled": true,
     "csharp.debug.console": "externalTerminal",
-    "csharp.referencesCodeLens.enabled": false,
     "explorer.compactFolders": false,
     "explorer.sortOrderLexicographicOptions": "unicode",
     "workbench.editorAssociations": {
@@ -47,5 +46,6 @@
         "angelo-breuer.clock": true,
         "ms-dotnettools.vscodeintellicode-csharp": false,
         "GitHub.copilot": false
-  },
+},
+"dotnet.codeLens.enableReferencesCodeLens": false,
 }
