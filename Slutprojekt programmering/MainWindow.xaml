@@ -1,0 +1,53 @@
+﻿<Window x:Class="ChessAnalyzer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chess Analyzer" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>   <!-- För knappar och input -->
+            <RowDefinition Height="Auto"/>   <!-- För draglista -->
+            <RowDefinition Height="*"/>      <!-- För analysresultat -->
+        </Grid.RowDefinitions>
+
+        <!-- Översta raden med inputfält och knappar -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0,0,0,10">
+            <TextBox x:Name="MoveInput"
+                     Width="200"
+                     Margin="5"
+                     ToolTip="Skriv ett UCI-drag, t.ex. e2e4"
+                     VerticalContentAlignment="Center"
+                     FontSize="14"
+                     />
+            <Button Content="Lägg till Drag"
+                    Click="AddMove_Click"
+                    Margin="5" Padding="10,5"/>
+            <Button Content="Analysera"
+                    Click="Analyze_Click"
+                    Margin="5" Padding="10,5"/>
+            <Button Content="Ladda PGN-fil"
+                    Click="LoadPGN_Click"
+                    Margin="5" Padding="10,5"/>
+        </StackPanel>
+
+        <!-- Visar drag som lagts till -->
+        <TextBlock x:Name="MoveList"
+                   Grid.Row="1"
+                   Margin="5"
+                   FontSize="14"
+                   TextWrapping="Wrap"
+                   />
+
+        <!-- Output från Stockfish -->
+        <TextBox x:Name="OutputText"
+                 Grid.Row="2"
+                 Margin="5"
+                 FontSize="13"
+                 AcceptsReturn="True"
+                 VerticalScrollBarVisibility="Auto"
+                 HorizontalScrollBarVisibility="Auto"
+                 TextWrapping="Wrap"
+                 IsReadOnly="True"
+                 />
+    </Grid>
+</Window>

@@ -1,0 +1,4 @@
+25-04-28 14:02 Session started
+----------------------------------------
+14:43:07 Document switched to: c:\Users\deniss.kuzmins\Downloads\stockfish-windows-x86-64\stockfish\AUTHORS
+----------------------------------------
